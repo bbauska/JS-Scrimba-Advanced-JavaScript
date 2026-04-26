@@ -2,7 +2,7 @@
 
 <ol type="1">
   <li><h2>Advanced Foundations</h2>
-  <ol type="a">
+  <ol type="A">
     <li>Course Intro</li>
     <li>Advanced Foundations Intro</li>
     <li>The Ternary Operator</li>
@@ -28,7 +28,7 @@
   </ol>
   </li>
   <li><h2>Methods & Loops</h2>
-  <ol type="a">
+  <ol type="A">
     <li>Methods & Loops Intro</li>
     <li>The for..of loop</li>
     <li>The for..in loop</li>
@@ -54,7 +54,7 @@
   </ol>
   </li>
   <li><h2>Function Expressions & Parameters</h2>
-  <ol type="a">
+  <ol type="A">
     <li>Function Expressions & Parameters Intro</li>
     <li>Function Expressions</li>
     <li>Function Expressions Challenge</li>
@@ -72,7 +72,7 @@
     </ol>
 	</li>
   <li><h2>Asynchronous JavaScript & APIs</h2>
-  <ol type="a">
+  <ol type="A">
     <li>Asynchronous JavaScript  & APIs Intro</li>
     <li>What is an API?</li>
     <li>Clients & Servers</li>
@@ -99,7 +99,7 @@
     </ol>
 	</li>
   <li><h2>Logical Operators & Coalescing</h2>
-  <ol type="a"></li>
+  <ol type="A"></li>
     <li>Logical Operators & Coalescing Intro</li>
     <li>Short-circuiting with OR (||)</li>
     <li>Short-circuiting with OR (||) Challenge</li>
@@ -112,7 +112,7 @@
 	</ol>
 	</li>
   <li><h2>Working with Objects</h2>
-  <ol type="a">
+  <ol type="A">
     <li>Working with Objects Intro</li>
     <li>Objects and Inbuilt Methods</li>
     <li>Object Methods Challenges 1</li>
@@ -130,7 +130,7 @@
 	</ol>
 	</li>
   <li><h2>Creating Custom Objects</h2>
-  <ol type="a">
+  <ol type="A">
     <li>Creating Custom Objects Intro</li>
     <li>Creating Objects Explainer</li>
     <li>Factory Functions</li>
