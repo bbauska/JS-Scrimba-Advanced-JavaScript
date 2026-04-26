@@ -1,7 +1,7 @@
 
 <ol type="1">
   <li><h2>Advanced Foundations</h2>
-  <ol type="1">
+  <ol type="1.1">
     <li>Course Intro</li>
     <li>Advanced Foundations Intro</li>
     <li>The Ternary Operator</li>
