@@ -1,33 +1,33 @@
 
 <ol type="1">
   <li><h2>Advanced Foundations</h2>
-  <ol list-style-type="none">
-    <li>Course Intro</li>
-    <li>Advanced Foundations Intro</li>
-    <li>The Ternary Operator</li>
-    <li>The Ternary Operator for Complex Conditionals</li>
-    <li>Ternary Operator Challenge</li>
-    <li>Switch Statements</li>
-    <li>Object Destructuring</li>
-    <li>Object Destructuring Challenge</li>
-    <li>setTimeout</li>
-    <li>setTimeout with params</li>
-    <li>setInterval</li>
-    <li>The Event Loop</li>
-    <li>Import Export: named</li>
-    <li>Import Export: default</li>
-    <li>The Date() Constructor</li>
-    <li>The Error() Constructor</li>
-    <li>Pre-increment</li>
-    <li>Numeric Separators & BigInt</li>
-    <li>Hoisting</li>
-    <li>Super Challenge: Stock Ticker</li>
-    <li>Super Challenge: Stock Ticker – Solution</li>
-    <li>Advanced Foundations Outro</li>
+  <ol style="list-style-type:none;">
+    <li>1a. Course Intro</li>
+    <li>1b. Advanced Foundations Intro</li>
+    <li>1c. The Ternary Operator</li>
+    <li>1d. The Ternary Operator for Complex Conditionals</li>
+    <li>1e. Ternary Operator Challenge</li>
+    <li>1f. Switch Statements</li>
+    <li>1g. Object Destructuring</li>
+    <li>1h. Object Destructuring Challenge</li>
+    <li>1i. setTimeout</li>
+    <li>1j. setTimeout with params</li>
+    <li>1-k. setInterval</li>
+    <li>1-l. The Event Loop</li>
+    <li>1-m. Import Export: named</li>
+    <li>1-o. Import Export: default</li>
+    <li>1-p. The Date() Constructor</li>
+    <li>1-q. The Error() Constructor</li>
+    <li>1-r. Pre-increment</li>
+    <li>1-s. Numeric Separators & BigInt</li>
+    <li>1-t. Hoisting</li>
+    <li>1-u. Super Challenge: Stock Ticker</li>
+    <li>1-v. Super Challenge: Stock Ticker – Solution</li>
+    <li>1-w. Advanced Foundations Outro</li>
   </ol>
   </li>
   <li><h2>Methods & Loops</h2>
-  <ol type="A">
+  <ol type="a">
     <li>Methods & Loops Intro</li>
     <li>The for..of loop</li>
     <li>The for..in loop</li>
